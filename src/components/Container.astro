@@ -20,7 +20,7 @@ const PDF = "/JosephMansourResume2024_.pdf";
     </article>
   </AccordionLayout>
 
-  <AccordionLayout title={"Work"} icon={"carbon:construction"}>
+  <AccordionLayout title={"Experience"} icon={"carbon:construction"}>
     {
       works.map((item) => {
         return (
@@ -37,8 +37,23 @@ const PDF = "/JosephMansourResume2024_.pdf";
       })
     }
   </AccordionLayout>
-
-  <AccordionLayout title={"Studies"} icon={"carbon:education"}>
+  <AccordionLayout title={"Certifications"} icon={"carbon:certificate"}>
+    {
+      certificates.map((item) => {
+        return (
+          <Card
+            title={item.frontmatter.title}
+            timeframe={item.frontmatter.date}
+            description={item.compiledContent()}
+            tags={item.frontmatter.tags}
+            url={item.frontmatter.url}
+            url_name={"View Certificate"}
+          />
+        );
+      })
+    }
+  </AccordionLayout>
+  <AccordionLayout title={"Education"} icon={"carbon:education"}>
     {
       studies.map((item) => {
         return (
@@ -72,24 +87,9 @@ const PDF = "/JosephMansourResume2024_.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Certifications"} icon={"carbon:certificate"}>
-    {
-      certificates.map((item) => {
-        return (
-          <Card
-            title={item.frontmatter.title}
-            timeframe={item.frontmatter.date}
-            description={item.compiledContent()}
-            tags={item.frontmatter.tags}
-            url={item.frontmatter.url}
-            url_name={"View Certificate"}
-          />
-        );
-      })
-    }
-  </AccordionLayout>
+ 
 
-  <AccordionLayout title={"Blogs"} icon={"carbon:pen"}>
+  <AccordionLayout title={"For Fun"} icon={"carbon:pen"}>
     {
       blogs.map((item) => {
         return (
