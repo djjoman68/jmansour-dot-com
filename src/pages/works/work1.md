@@ -1,14 +1,13 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: Manager, Enterprise Solutions Strategy & Pre-Sales
+date: July 2024 - Present
+url: http://www.usa.canon.com
+location: Melville, NY
+org: Canon USA Inc.
+tags: ["Marketing Strategy", " Technical Product Sales", "Strategic Partnerships", "Pre-Sales Consulting"]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+- Responsible for defining and executing the strategic direction for Canon's enterprise solutions portfolio.  
+- Manage a team of product specialists to ensure the development, implementation, and optimization of enterprise solutions that align with Canon’s strategic goals and meet market demands. 
+- Foster a collaborative and high-performance team environment, encouraging professional growth and development. 
+- Work closely with pre-sale analysts to define product requirements, prioritize features, ensuring alignment with strategic goals and customer needs. 

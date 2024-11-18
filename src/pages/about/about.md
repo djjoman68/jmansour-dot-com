@@ -1,10 +1,9 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
-website: "http://tafutza.hn/kos"
+name: "Joseph M. Mansour"
+designation: "Enterprise Cloud Solutions"
+location: New York Metro Area
+website: "http://www.joe-mansour.com"
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+Solution sales professional responsible for providing technical consultation, workflow assessment, development of strategy, and in-depth knowledge of enterprise cloud platforms. Expert in technical pre-sales, territory management, delivering sales presentations, and managing a strategic porftolio of resellers. 

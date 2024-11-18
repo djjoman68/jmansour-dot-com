@@ -1,15 +1,14 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Bachelor of Science in Marketing/Management
+location: Loudonville, NY
+url: http://www.siena.edu
+institute: Siena College
+date: 2004-2008
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Marketing",
+    "Management",
+    "Business",
+
   ]
 ---

@@ -1,22 +1,25 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: Manager, Enterprise Solution Sales
+date: 2018 - 2024
+url: http://www.usa.canon.com
+location: Field-based (Eastern US)
+org: Canon USA Inc.
 tags:
   [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
+    "Enterprise Solutions Selling",
+    "Technical Product Demos",
+    "Sales Team Management",
+    "Sales Presentations",
+    "Pre-Sales Consulting",
+    "Business Development",
   ]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- Manage a nationwide team of Solution Sales Analysts tasked with growth of enterprise cloud software 
+- Handled enterprise sales to Fortune 500 companies for SaaS applications via Canon's network of partners 
+- Deliver technical product demonstrations and presentations of Microsoft Azure-based print & scan workflow software to end customers 
+- Collaborate with marketing teams to develop and deliver sales promotions 
+- Develop strategic business relationships with key Canon partners/resellers 
+- Educate Canon sales partners on Canon technology with consultative selling approach 
+- Organize and deliver technical sales seminars both in-person and virtually  
+- Build and develop a results-oriented sales team with strong working relationships 
