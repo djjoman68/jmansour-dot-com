@@ -1,5 +1,5 @@
 ---
-title: Manager, Enterprise Solutions Strategy & Pre-Sales
+title: Sr. Manager, Enterprise Solutions Strategy & Pre-Sales
 date: July 2024 - Present
 url: http://www.usa.canon.com
 location: Melville, NY
