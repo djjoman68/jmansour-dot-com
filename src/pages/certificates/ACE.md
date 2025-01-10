@@ -2,7 +2,7 @@
 title: Google Associate Cloud Engineer
 org: Google
 tags: [Cloud Design, SaaS, Google Cloud Platform ]
-url: https://cloud.google.com/learn/certification/cloud-engineer
+url: https://www.credly.com/badges/ce3e9874-f164-4aff-8387-c81d9f1ff939/public_url
 date: 2024
 ---
 

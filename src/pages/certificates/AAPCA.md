@@ -2,7 +2,7 @@
 title: Google Professional Cloud Architect
 org: Google
 tags: [Cloud Design, SaaS, Google Cloud Platform ]
-url: https://cloud.google.com/learn/certification/cloud-architect
+url: https://www.credly.com/badges/6ccfab6b-71c0-49e8-be29-d40b6eda8ce2/public_url
 date: 2025
 ---
 
