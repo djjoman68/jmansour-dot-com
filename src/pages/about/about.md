@@ -5,6 +5,7 @@ designation: "Enterprise Cloud Solutions"
 location: New York Metro Area
 website: "http://www.joe-mansour.com"
 ---
+## About Me
 
 I'm a Solutions Consultant with over a decade of experience helping organizations—ranging from SMBs to Fortune 500s—solve complex business challenges through enterprise SaaS and cloud-based solutions.
 
