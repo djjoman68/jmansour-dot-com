@@ -15,11 +15,12 @@ tags:
   ]
 ---
 
-- Manage a nationwide team of Solution Sales Analysts tasked with growth of enterprise cloud software 
-- Handled enterprise sales to Fortune 500 companies for SaaS applications via Canon's network of partners 
-- Deliver technical product demonstrations and presentations of Microsoft Azure-based print & scan workflow software to end customers 
-- Collaborate with marketing teams to develop and deliver sales promotions 
-- Develop strategic business relationships with key Canon partners/resellers 
-- Educate Canon sales partners on Canon technology with consultative selling approach 
-- Organize and deliver technical sales seminars both in-person and virtually  
-- Build and develop a results-oriented sales team with strong working relationships 
+Directed a team of Solution Sales Analysts delivering pre-sales consultation and technical demos.
+
+Led strategic sales efforts including RFPs, workshops, and executive-level presentations.
+
+Maintained direct client and partner engagement to align solutions with business needs.
+
+Helped drive over $10M in annual software revenue through consultative selling and solution design.
+
+Played a key role in expanding software adoption and increasing client satisfaction.

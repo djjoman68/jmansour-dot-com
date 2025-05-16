@@ -15,8 +15,10 @@ tags:
   ]
 ---
 
-- Manage a sales territory of 40+ independently owned Canon partners and achieved consecutive years of solutions growth with a 25% increase in 2017 
-- Responsible for promotion, training and pre-sales support of Canon-branded and third-party solutions for Canon partners in the Northeast 
-- Provide technical consultation, workflow assessment, development of strategy, and in-depth knowledge of Canon-branded and third-party solutions 
-- Deliver presentations and product demonstrations directly to potential end customers as well as partner sales teams 
-- Foster growth in all aspects of Canon partner solutions business 
+Managed a nationwide territory of 40+ Canon reseller partners, helping grow solution sales.
+
+Delivered hundreds of technical product demos and discovery sessions to C-level stakeholders.
+
+Engineered workflow solutions tailored to enterprise client needs.
+
+Contributed to major deals, including a $2.5M win with a leading healthcare system.

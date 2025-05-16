@@ -12,6 +12,8 @@ tags:
   ]
 ---
 
-- Plan and manage imageRUNNER ADVANCE product launches including development of sales collateral and product positioning 
-- Prepare and deliver training to Canon sales representatives during visits to regional offices and dealer locations 
-- Support industry-wide trade shows through collateral preparation and on-site demonstrations  
+Supported product launches for the imageRUNNER ADVANCE platform, including training, content, and field support.
+
+Delivered in-person training at regional offices and partner locations.
+
+Represented Canon at national trade shows and conferences with live product demos.
